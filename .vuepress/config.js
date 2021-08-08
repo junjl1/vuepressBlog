@@ -1,7 +1,8 @@
 module.exports = {
   "title": "Junjl",
   "description": "求其记记",
-  "dest": "public",
+  "dest": "dist",
+  "base": "/dist/",
   "head": [
     [
       "link",
