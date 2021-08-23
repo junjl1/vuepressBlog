@@ -2,7 +2,7 @@ module.exports = {
   "title": "Junjl",
   "description": "求其记记",
   "dest": "dist",
-  "base": "/dist/",
+  "base": "/",
   "head": [
     [
       "link",
